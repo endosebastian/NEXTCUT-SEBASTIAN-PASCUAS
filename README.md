@@ -1,5 +1,5 @@
 # ✂️ NEXTCUT — Sistema de Reservas para Peluquería
-
+Acceso a la base de datos: https://console.firebase.google.com/u/0/project/proyecto-peluqueria-93617/settings/iam?hl=es-419
 Sistema web profesional de gestión de citas para peluquería/barbería, construido en HTML puro con Firebase Firestore como base de datos en tiempo real. No requiere servidor ni instalación.
 
 ---
